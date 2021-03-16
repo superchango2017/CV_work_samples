@@ -3,9 +3,12 @@
 For more than 20 years I have worked as Technical Writer in a variety of industry sectors and locations. These range from SAP service management companies in Germany, to telecommunications companies in the Netherlands, and to electronic payments, airline IT, satellite communications and leading FinTech companies in London.
 
 Languages: English, German and Spanish
+
 Citizenship: British and German
+
 LinkedIn: [http://uk.linkedin.com/in/klausfrey](http://uk.linkedin.com/in/klausfrey)
-Email: [Email](klaus.frey@gmail.com) 
+
+Email: [Contact me](mailto:klaus.frey@gmail.com) 
 
 
 ## <Highlight color="#25c2a0">KPN API Store, ROTTERDAM, NETHERLANDS</Highlight>
