@@ -1,8 +1,9 @@
-## My digital CV
+## Klaus Frey
+Techncial Writer
 
-## SEP 2019 – JAN 2021
+## <Highlight color="#25c2a0">KPN, ROTTERDAM, NETHERLANDS</Highlight>
 
-### <Highlight color="#25c2a0">KPN, ROTTERDAM, NETHERLANDS</Highlight>
+### SEP 2019 – JAN 2021
 
 Senior Technical Writer – Contract
 
